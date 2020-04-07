@@ -20,5 +20,6 @@
     <url>scm:git:git@github.com:lwille/github-actions-demo.git</url>
     <developerConnection>scm:git:git@github.com:lwille/github-actions-demo.git</developerConnection>
     <tag>HEAD</tag>
-  </scm>  
+  </scm>
+
 </project>
